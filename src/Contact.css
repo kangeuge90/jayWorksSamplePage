@@ -1,0 +1,12 @@
+.contactContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.contactContainer img {
+    width: 150px;
+    height: 48px;
+}
