@@ -23,9 +23,9 @@ function App() {
           <Route path="/" element={<Home />}></Route>
           <Route path="/login" element={<LogIn />}></Route>
           <Route path="/contactus" element={<Contact />}></Route>
-          <Route path="/jayworks" element={<Home />}></Route>
-          <Route path="/jayworks/login" element={<LogIn />}></Route>
-          <Route path="/jayworks/contactus" element={<Contact />}></Route>
+          <Route path="/jayworkssamplepage" element={<Home />}></Route>
+          <Route path="/jayworkssamplepage/login" element={<LogIn />}></Route>
+          <Route path="/jayworkssamplepage/contactus" element={<Contact />}></Route>
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
       </div>
