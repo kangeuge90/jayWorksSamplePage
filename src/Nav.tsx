@@ -8,11 +8,11 @@ function Nav() {
     return (
         <div className="navContainer">
             {/* <div className="opacityNavContainer"> */}
-                <Link to="/jayworkssamplepage/login">
-                    <img src={LogInPic}></img>
-                </Link>
                 <Link to="/jayworkssamplepage">
                     <img id='homePic' src={HomePic}></img>
+                </Link>
+                <Link to="/jayworkssamplepage/login">
+                    <img src={LogInPic}></img>
                 </Link>
                 <Link to="/jayworkssamplepage/contactus">
                     <img id="contactUsPic" src={emailPic}></img>
