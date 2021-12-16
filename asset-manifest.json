@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jayWorksSamplePage/static/css/main.34123351.chunk.css",
+    "main.js": "/jayWorksSamplePage/static/js/main.ed859853.chunk.js",
+    "main.js.map": "/jayWorksSamplePage/static/js/main.ed859853.chunk.js.map",
+    "runtime-main.js": "/jayWorksSamplePage/static/js/runtime-main.c92b4145.js",
+    "runtime-main.js.map": "/jayWorksSamplePage/static/js/runtime-main.c92b4145.js.map",
+    "static/js/2.ee91d271.chunk.js": "/jayWorksSamplePage/static/js/2.ee91d271.chunk.js",
+    "static/js/2.ee91d271.chunk.js.map": "/jayWorksSamplePage/static/js/2.ee91d271.chunk.js.map",
+    "static/js/3.e3e19109.chunk.js": "/jayWorksSamplePage/static/js/3.e3e19109.chunk.js",
+    "static/js/3.e3e19109.chunk.js.map": "/jayWorksSamplePage/static/js/3.e3e19109.chunk.js.map",
+    "index.html": "/jayWorksSamplePage/index.html",
+    "static/css/main.34123351.chunk.css.map": "/jayWorksSamplePage/static/css/main.34123351.chunk.css.map",
+    "static/js/2.ee91d271.chunk.js.LICENSE.txt": "/jayWorksSamplePage/static/js/2.ee91d271.chunk.js.LICENSE.txt",
+    "static/media/home.8b8837b3.png": "/jayWorksSamplePage/static/media/home.8b8837b3.png",
+    "static/media/jayworkslogo1.973378b1.png": "/jayWorksSamplePage/static/media/jayworkslogo1.973378b1.png",
+    "static/media/login.942e4b7c.jpeg": "/jayWorksSamplePage/static/media/login.942e4b7c.jpeg",
+    "static/media/whatWeDo.bd922f6f.png": "/jayWorksSamplePage/static/media/whatWeDo.bd922f6f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c92b4145.js",
+    "static/js/2.ee91d271.chunk.js",
+    "static/css/main.34123351.chunk.css",
+    "static/js/main.ed859853.chunk.js"
+  ]
+}
